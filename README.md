@@ -5,5 +5,5 @@ These visualizations were created during my course work as a data science studen
 * `life_ladder_score_anaylsis` a visualization project exploring which countries consistently have the highest life ladder scores, and which factors most drastically impact these scores. Explored these questions using visuals begining with an interactive choropleth of the recent scores for each coutnry, a line plot of the top and bottom 6 countries, a closer look at the overall highest and lowest coutries, and a density plot of how the main features varied in those top and bottom scoring countires. These features were determined using linear regression.
 * `temperature_analysis` subplots displaying the change in temperature overtime by focusing on rolling averages and different hemispheres.  
 * `interactive_plotly` an interactive plot, made using Plotly, which change in the death rate over time of the selected state.
-* `police_shootings_race` displays the impact of normalizing parameters through side by side bar charts of police shootings by race before and after normalizing by each population. 
+* `police_shootings_race` displays the impact of normalizing features through the use of side by side bar charts of police shootings by race before and after normalizing by each population. 
 * `gun_permits` ascending histogram displaying the number of gun permits per state.
